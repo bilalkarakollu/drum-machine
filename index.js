@@ -1,7 +1,4 @@
 const projectName = 'drum-machine';
-
-// coded by @no-stack-dub-sack (github) / @no_stack_sub_sack (codepen)
-
 const bankOne = [
   {
     keyCode: 81,
